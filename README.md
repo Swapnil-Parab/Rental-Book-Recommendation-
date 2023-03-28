@@ -12,7 +12,7 @@ Note: You have to perform user-based collaborative filtering and item-based coll
 
 ## Dataset description:
 
-BX-Users: It contains the information of users.
+### BX-Users: It contains the information of users.
 
 user_id - These have been anonymized and mapped to integers
 
@@ -24,7 +24,7 @@ If available, otherwise, these fields contain NULL-values.
 
  
 
-BX-Books: 
+### BX-Books: 
 
 isbn - Books are identified by their respective ISBNs. Invalid ISBNs have already been removed from the dataset.
 
@@ -39,7 +39,7 @@ publisher
 
  
 
-BX-Book-Ratings: Contains the book rating information. 
+### BX-Book-Ratings: Contains the book rating information. 
 
 user_id
 
